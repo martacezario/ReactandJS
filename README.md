@@ -1,6 +1,9 @@
 # React + Vite
 
+Projeto para um confeitaria em ReactJS e Javascript. - em construção -
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 
 Currently, two official plugins are available:
 
